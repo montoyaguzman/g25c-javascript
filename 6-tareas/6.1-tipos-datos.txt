@@ -1,0 +1,3 @@
+1. Cual es la diferencia entre un tipo dato primitivo y uno complejo.
+2. Como se define un objeto y un arreglo en JS y para que sirve cada uno.
+3. Que es let y que es const en javascript.
