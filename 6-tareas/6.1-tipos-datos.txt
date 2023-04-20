@@ -1,4 +1,17 @@
 1. Cual es la diferencia entre un tipo dato primitivo y uno complejo.
+Datos primitivos (char, int, String, boolean, number(int, double)): Son tipos simple que solo guardan un valor.
+Datos complejos (arrays y objetos): Son datos que guardan mas de un valor.
+
 2. Como se define un objeto y un arreglo en JS y para que sirve cada uno.
+Los objetos se definen con {} y tiene una key (prop) y un value.
+var celular = {
+    brand: "xaomi"
+    price: 2000,
+    hasStock: true
+}
+
+Los arrays son una lista de datos a los que se accede por posicion y definen con []
+var daysOfWeek = [ "monday", "tuesday", 90, false, 78.77 ];
+
 3. Que es let y que es const en javascript.
 

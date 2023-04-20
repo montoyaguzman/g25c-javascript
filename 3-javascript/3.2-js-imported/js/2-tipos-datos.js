@@ -30,6 +30,9 @@ Ejemplo (javascript):
 var number = 6;
 */
 
+/**
+ * Tipos primitivos
+ */
 var numberSix = 6;
 var decimalNumber = 22.75;
 var myName = "montoya";
@@ -38,3 +41,26 @@ var flag = true;
 // OK
 flag = 22.77;
 flag = "juanito banana";
+
+/**
+ * Tipos complejos
+ */
+// objects
+var video = {
+    name: "peaches",
+    author: "jack black",
+}
+console.log(video);
+console.log(video.name);
+console.log(video.author);
+console.log(video.date);
+
+// arrays
+var comments = [
+    "el video es buenardo", // [0]
+    "a mi no me gusto", // [1]
+    "todos somos browser", // [2]
+];
+console.log(comments);
+console.log(comments[1]);
+console.log(comments[3]); // undefined
