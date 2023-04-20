@@ -30,3 +30,9 @@ switch (dayOfWeek) {
       console.log('ese dia no existe');
     break;
 }
+
+5. Hacer un diagrama/dibujo/notas/nada sobre las tablas de verdad (hacer un ejemplo en JS)
+
+6. Hacer un diagrama/dibujo/notas/nada sobre los operadores basicos de JS
+Operadores comparacion (==, ===, !=, !==, !)
+Operadores aritmeticos (+, -, *, /, ^)
