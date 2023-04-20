@@ -16,7 +16,7 @@ console.log("jose montoya")
 4. Mejorar sus console.log
 console.log('celular.hasStock: ' + celular.hasStock);
 console.log('celular.hasStock: ', celular.hasStock);
-console.log(`celular.hasStock ${celular.hasStock}`); // es6
+console.log(`celular.hasStock ${celular.hasStock}`); // es6 - template string `` (backticks)
 
 console.table
 console.warn
