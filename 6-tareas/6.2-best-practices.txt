@@ -45,3 +45,5 @@ var hasStock = true;
 
 // Variable para validar si son mayores de edad
 var isOldMayor = false;
+
+docs: https://github.com/ryanmcdermott/clean-code-javascript
