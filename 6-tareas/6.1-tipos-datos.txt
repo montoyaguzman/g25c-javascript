@@ -11,7 +11,39 @@ var celular = {
 }
 
 Los arrays son una lista de datos a los que se accede por posicion y definen con []
-var daysOfWeek = [ "monday", "tuesday", 90, false, 78.77 ];
+var daysOfWeek = [ "monday", "tuesday", 90, false, 78.77, { name: "montoya", age: 20 } ];
 
-3. Que es let y que es const en javascript.
+3. Ejercicio practico de arrays y objetos. Dadas las siguientes variables, obtener en un console.log, lo
+que se solicita
+
+var video = {
+    name: "peaches",
+    author: "jack black",
+    comments: [
+        "el video es buenardo", // [0]
+        "a mi no me gusto", // [1]
+        "todos somos browser", // [2]
+    ]
+}
+
+var celular = {
+    brand: "xaomi"
+    price: 2000,
+    hasStock: true,
+    company: { name: 'xaomi company', address: { street: "callesita no.4" } }
+}
+
+var data = [45, 67, 12, { qualifications: [10, 9 , 0] }, false, 23.77 ]
+
+// imprimir el comentario de "a mi no me gusto"
+console.log(video.comments[1]);
+// imprimir la direccion de la compañia de la var celular
+// imprimir si hay piezas disponibles de celular
+// imprimir la segunda calificacion
+// imprimir la penultima posicion del array de data
+// imprimir la marca del celular
+// imprimir el ultimo comentario del video
+
+
+4. Que es let y que es const en javascript.
 
