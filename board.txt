@@ -1,0 +1,91 @@
+lenguajes de programacion => Para darle funcionalidad e interaccion a los sistemas
+
+
+logica de programacion
+
+
+Python
+GO
+Java
+Php
+C#, C++ y C
+Dart
+Kotlin
+R
+==========> backend
+
+JavaScript: Sirve para darle la interactivad/funcionalidad al front end
++ backend (nodejs)
++ videojuegos
++ apps moviles
++ apps de escritorio
+
+API
+
+
+Clean code
+Escribir codigo entendible y basado en buenas practicas
+
+paradigma
+forma (conjunto de reglas y conceptos) en que diseñamos/programamos algo
+
+multiparadigma
+varias formas de programarse algo (secuencial, orientada a objetos y orientada a eventos)
+
+Sentencias de programacion
+
+if, else, switch (condicionales)
+while, for, do, while (iteraciones, ciclos)
+
+
+imperativa
+
+
+declarativa
+
+
+* [Intro a lenguajes de programacion](#intro-a-lenguajes-de-programacion)
+* [Logica de programacion](#logica-de-programacion)
+* [Frameworks CSS](#frameworks-css)
+* [Manipulacion del DOM](#manipulacion-del-dom)
+
+
+sintaxis
+es l;a forma de escribir el codigo de un lenguaje 
+
+
+
+<!-- comentario en html -->
+
+/* comentario en css */
+
+// comentario de una linea
+/* comentario de varias lineas */
+
+
+/      directorio o carpeta
+../    regresa una carpeta    /montoya/imgs/pokemon montoya/imgs
+./     ahi mismo
+
+
+
+
+Tipos de datos
+
+Primitivos
+    Numericos (int y double)
+    Strings
+    Boolean
+    Char
+Complejos
+    Objetos
+    Arreglos
+
+
+
+
+
+
+
+
+
