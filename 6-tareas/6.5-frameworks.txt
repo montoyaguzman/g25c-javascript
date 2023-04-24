@@ -1,0 +1,21 @@
+1. Crea una estructura básica de HTML con un documento vacío.
+
+2. Agrega los enlaces necesarios para incluir el archivo CSS de Material Design Lite. Puedes encontrar los enlaces en la documentación oficial de MDL.
+
+3. Crea un encabezado (header) para tu página que incluya un logo y un menú de navegación con al menos 3 enlaces.
+
+4. Agrega una sección principal (main) con un título, un párrafo de introducción y una imagen ilustrativa.
+
+5. Dentro de la sección principal, crea una tarjeta (card) de Material Design Lite que contenga una imagen, un título, una descripción y un botón de acción.
+
+6. Crea una sección de formularios (form) que incluya un formulario de contacto con campos para nombre, correo electrónico y mensaje, y un botón de envío.
+
+7. Agrega una sección de pies de página (footer) que incluya información de contacto, enlaces a redes sociales y otra información relevante.
+
+8. Asegúrate de que tu diseño sea responsivo y se adapte a diferentes tamaños de pantalla, utilizando las clases de diseño de Material Design Lite.
+
+9. Añade algún otro componente de Material Design Lite a tu elección, como una barra de progreso, una lista, una tabla o un diálogo, para practicar el uso de diferentes elementos de la biblioteca.
+
+10. ¡Personaliza los colores, fuentes y estilos de tu página utilizando las opciones de personalización que ofrece Material Design Lite!
+
+Recuerda que Material Design Lite es una biblioteca de diseño que sigue las guías de diseño de Material Design de Google, por lo que se centra en la simplicidad y la claridad en la presentación de la información. ¡Diviértete practicando el desarrollo web con Material Design Lite!
