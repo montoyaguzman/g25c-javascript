@@ -47,19 +47,15 @@ flag = "juanito banana";
  */
 // objects
 var video = {
-    name: "peaches",
-    author: "jack black",
+    name: "peaches", // video.name
+    author: "jack black", // video.author
 }
-console.log(video);
-console.log(video.name);
-console.log(video.author);
-console.log(video.date);
 
 // arrays
 var comments = [
-    "el video es buenardo", // [0]
-    "a mi no me gusto", // [1]
-    "todos somos browser", // [2]
+    "el video es buenardo", // comments[0]
+    "a mi no me gusto", // comments[1]
+    "todos somos browser", // comments[2]
 ];
 console.log(comments);
 console.log(comments[1]);
