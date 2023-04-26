@@ -1,0 +1,119 @@
+Revisar Cartelera 
+Hay Algo que quiero ver?
+
+no -> END
+
+SÌ -> 
+Agregar boletos al carrito
+
+Revisar si cuenta bancaria
+Tengo suficiente dinero?
+
+No -> END
+
+SÌ -> Comprar boletos
+
+Pedir Uber
+
+Llegar al cine
+------------------------------------------------
+1.-Tengo tiempo?
+
+2.-øTengo dinero?
+
+3.-Ver cartelera
+
+4.-Me llama la atenciÛn alguna pelicula?
+
+5.-Debes ir al cine
+
+6.-øest· cerca?-No: buscar cÛmo llegar
+
+7.-sÌ: llegar caminando
+
+8.-Pedir boletos
+
+9.-Verificar si hay asientos disponibles
+
+10.-Pagar
+
+11.-øquieres algo de la dulceria?
+
+12.-Verificar si te alcanza
+
+13.-pedir y pagar
+
+14.-Buscar sala y asientos
+
+15.-Disfrutar la pelicula
+-------------------------------------------------
+1.- Buscar en lÌnea el cine de mi preferencia2.- Ver que pelÌculas hay en la cartelera 
+
+3.  La pelicula es de mi agrado?
+* 
+	Si 
+	sÌ: Verificar horarios. 
+	*Si no 	
+	--- No ir al cine  ---> 	Fin4.- Comprar boletos 
+
+5.- Dirigirse al cine en el horario de la pelÌcula
+
+6.- Comprar palomitas
+
+7.- Dirigirse a la sala de la pelÌcula
+
+8.- Encontrar los asientos de mi entrada
+
+9.- Sentarme
+
+10.- Disfrutar la pelicula
+
+11.- Salir del cine 12.- Fin
+--------------------------------------------------
+1. Seleccionar la pelÌcula que quiero ver
+
+2. Ver en quÈ cines est· disponible3. Seleccionar un horario y asientos4. Trasladarse al cine5. Comprar el boleto para la funciÛn seleccionada
+
+6. øQuiero palomitas? 
+	-->Si -->
+		Formarse en la dulcerÌa --> 
+		Seleccionar combo --> 
+		Pagar --> 
+Entrar a la sala
+	
+No --> Entrar a la sala
+
+7. Buscar el asiento	
+
+8. Disfrutar la pelÌcula
+-----------------------------------------------------
+1.-Pensar en la pelÌcula que quiero ver.
+
+2.-Consultar costos, disponibilidad y horarios.3.-Verificar si tengo el dinero suficiente para comprar los      boletos. 4.-Comprar los boletos.5.-Asistir a la funciÛn reservada.
+-----------------------------------------------------
+1.- Buscar en lÌnea el cine de mi preferencia2.- Ver que pelÌculas hay en cartelera 3.  øLa pelÌcula es de mi agrado?
+* 
+	Si sÌ: Verificar horarios. 
+	*Si no --- No ir al cine  ---> 
+					Fin
+
+4.- Comprar boletos 
+
+5.- Dirigirse al cine en el horario de la pelÌcula
+
+6.- Comprar palomitas
+
+7.- Dirigirse a la sala de la pelÌcula
+
+8.- Encontrar los asientos de mi entrada
+
+9.- Sentarme
+
+10.- Disfrutar la pelÌcula11.- Salir del cine 
+
+12.- Fin
+------------------------------------------------------
+
+
+
+
