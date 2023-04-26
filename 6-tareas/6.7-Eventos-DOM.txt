@@ -1,0 +1,18 @@
+Ejercicios de Manejo de eventos:
+
+1. Crea una página web con un campo de texto y un botón. Al hacer clic 
+    en el botón, se debe mostrar en un alert el texto ingresado en el 
+    campo de texto.
+
+2. Crea una página web con una lista de elementos. Al hacer clic en un 
+    elemento de la lista, se debe mostrar en un alert el texto del 
+    elemento seleccionado.
+
+3. Crea una página web que contenga una imagen. Al hacer clic en la 
+    imagen, debe aparecer un mensaje que indique que la imagen ha sido 
+    clickeada.
+
+4. Crea una página web que contenga un formulario con un campo de texto 
+    y un botón. Al presionar la tecla "Enter" mientras se está dentro 
+    del campo de texto, el texto ingresado debe aparecer en un nuevo 
+    párrafo debajo del formulario.
