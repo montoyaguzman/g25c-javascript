@@ -1,0 +1,14 @@
+1. Que es un ciclo?
+
+2. Sintaxis de los 3 ciclos basico de programacion
+while
+for
+do while
+
+3. Imprimir todos los numeros entre 1 y 50 que al dividirlos entre 2 de como residuo 0.
+(Hacer con while y con for)
+
+4. Crear un array que tenga 10 numeros y 8 nombres (18 positions). Luego crear un ciclo,
+que imprima todos los datos del arreglo, excepto si el nombre empieza con 'J' o el numeros
+es menor a 5.
+(Hacer con while y con for)
