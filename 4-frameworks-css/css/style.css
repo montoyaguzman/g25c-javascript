@@ -1,0 +1,26 @@
+.my-border{
+    border-radius: 15px;
+}
+
+.demo-card-wide.mdl-card {
+    width: 512px;
+}
+
+.demo-card-wide > .mdl-card__title {
+    color: #3767c8;
+    height: 276px;
+    background: url('https://images5.alphacoders.com/980/thumbbig-980843.webp') center / cover;
+}
+
+.demo-card-wide > .mdl-card__menu {
+    color: #8b2f2f;
+}
+
+.mdl-layout__header{
+    background-color: black;
+}
+
+.mdl-cell{
+    background-color: #3767c8;
+    color: white;
+}
