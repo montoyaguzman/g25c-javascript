@@ -1,6 +1,6 @@
 Ejercicios de Manejo de eventos:
 
-1. Crea una página web con un campo de texto y un botón. Al hacer clic 
+1. Crea una página web con un campo de texto (input) y un botón. Al hacer clic 
     en el botón, se debe mostrar en un alert el texto ingresado en el 
     campo de texto.
 
