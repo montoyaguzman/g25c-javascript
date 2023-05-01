@@ -1,0 +1,25 @@
+Juego de adivinanza: Crea un juego en el que el usuario tenga que adivinar un número
+aleatorio entre un rango determinado. Para esto, tendrás que utilizar el DOM para 
+manipular los elementos HTML y JavaScript para generar números aleatorios y compararlos 
+con las respuestas del usuario.
+
+Descripción:
+El juego de adivinanza consiste en que el usuario tenga que adivinar un número aleatorio 
+dentro de un rango determinado. El juego deberá utilizar el DOM para manipular 
+los elementos HTML y JavaScript para generar números aleatorios y compararlos con 
+las respuestas del usuario.
+
+Requerimientos funcionales:
+
+∆ Generar un número aleatorio dentro de un rango especificado por el usuario.
+∆ Permitir al usuario ingresar un número para adivinar.
+∆ Comparar el número ingresado por el usuario con el número generado aleatoriamente.
+∆ Dar al usuario retroalimentación indicando si su respuesta es demasiado alta, demasiado baja o correcta.
+∆ Permitir al usuario jugar nuevamente o salir del juego.
+
+Requerimientos no funcionales:
+
+∆ El juego deberá ser fácil de entender y jugar para el usuario.
+∆ El juego deberá tener una interfaz de usuario atractiva y fácil de usar.
+∆ El juego deberá ser compatible con una amplia variedad de dispositivos y navegadores web.
+∆ El juego deberá ser seguro y proteger la privacidad del usuario.
