@@ -1,0 +1,9 @@
+1. Crear un calculadora que realice las 4 operaciones basicas con dos numeros.
+Los dos numeros y el tipo de operacion deben ser solicitados al usuario por consola.
+Una vez cargado el programa no debe detenerse a menos que el usuario teclee una "x".
+
+2. Realizar un programa que calcule todos los numeros existenten entre 1 y 200
+que sean pares e termine con 2 o 4.
+
+3. Hacer un programa que lea 3 numeros por consola y responda cual es el mayor de los 3 
+y cual el menor.
