@@ -26,7 +26,6 @@ document.addEventListener("DOMContentLoaded",function () {
 
     function restart() {
         numberToGuess = generateNumberToGuess();
-        console.log(numberToGuess);
         guessInput.value = "";
         feedbackText.textContent = "";
         submitButton.disabled = false;

@@ -1,0 +1,55 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(209, 45, 45) 100%);
+}
+.title{
+    text-align:center;
+    color: #e1e1e1;
+}
+.game{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.demo-card-wide.mdl-card {
+    width: 612px;
+    border-radius: 15px;
+}
+
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 276px;
+    background: url('../assets/galaxia.jpg') center / cover;
+}
+
+.demo-card-wide > .mdl-card__menu {
+    color: #fff;
+}
+
+.mdl-button--colorblue{
+    background-color: #023047;
+    color: white;
+}
+.mdl-button--colorblue:hover {
+    background-color: #4ca6d3;
+    color: black;
+  }
+
+
+.mdl-button--colororange{
+    background-color: #fb8500;
+    color: white;
+    float: right;
+}
+
+.mdl-button--colororange:hover{
+    background-color: #fac991;
+    color: rgb(0, 0, 0);
+}
+
+.info{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
