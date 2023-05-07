@@ -84,8 +84,60 @@ Complejos
 
 
 
+CLASE EXTRA (7/05/23)
+
+DUDAS
+1. Donde utilizar (), {}, ;, "" => SINTAXIS DEL LENGUAJE
+2. while, if, switch => Keywords o palabras reservadas
+3. Como puedo ordenar lo que vi en clase para despues hacerlo yo?
+    Yax: Hacer diagramas y separar en pasos. Desglosar en cachitos,
+    para saber como hacer ese pasito.
+    Notas que ustedes mismos entiendan.
+    Montoya: Leer mucho o ver videos del antes. Investigar parte por parte
+    de lo que no entendi en clase y hacer notas de esos puntos.
+4. Chat gpt no es el unico recurso.
+5. Como definir la estructura de JS?? Que seria lo correcto en cuanto a buenas practicas de JS.
+    Montoya: js CAOS, JAVA. js ES el lenguaje solicitado y se usa en la web.
+    500k de hacer la misma cosa.
+        Senseis y dudar de eso, docs oficiales y libros (eloquent JS y Clean JavaScript: Aprende a aplicar Código Limpio, SOLID y Testing )
+    Yax:
+    https://eloquentjs-es.thedojo.mx/Eloquent_JavaScript.pd
+    https://github.com/ryanmcdermott/clean-code-javascript
+    La experiencia de la compañia 
+6. Tener problemas reales que resolver.
+    Yax: Los proyectos te hacen click, la semana del proyecto es un infierno
+    pero dedicandole uno aprende mucho.
+    Montoya: 
+7. Github copilot
+    Yax: Mismo caso que en GPT.
+    Montoya: Ni sabia que era jajaja.
+8. Refuerzo del DOM (depende de las clases de intro a JS)
+9. Cuidar su propia identidad y tener criterio para elegir entre diferentes opiniones.
+10. Practicar por separado
 
 
+TEMAS DEL DIA
+Entradas de datos y variables ??
+Mas tipos de datos ??
+Valores por defecto de una variable y comparar o validar la existencia de un dato.
+    string, number, boolean, obj, array
+Condiciones y tablas de verdad
+Operadores
+Repaso while y for
+Scope
+Funciones y parametros
 
+// DEBILMENTE TIPADO (JS)
+let variable1 = "hola mundo"
+variable1 = 10
+variable = false
 
+// FUERTEMENTE TIPADO (Java)
+String variable 2 = "hola mundo"
+variable2 = 10 // error
+
+Tip best practices
+1. Nombrar a las variables y las funciones correctamente.
+2. Primero declarar y luego usar.
+3. Que cada funcion sea para 1 solo proposito.
 
