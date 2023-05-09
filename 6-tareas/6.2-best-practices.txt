@@ -1,4 +1,4 @@
-1. Que es let y que es const en javascript.
+1. Que es let y que es const en javascript?
 var: Permite definir una variable en un scope global.
 let: Permite definir una variable en un scope especifico. // es6
 const: Permite definir variables en un scope especifico pero que nunca cambian de valor. // es6

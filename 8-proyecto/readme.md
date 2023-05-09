@@ -1,6 +1,6 @@
 **Proyecto Final**
 
-Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemplo, un cliente se puede loggear, ver su información, hacer depositos y retiros. 
+Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemplo, un cliente se puede loggear, ver su información, hacer depositos y retiros.
 
 **Consideraciones**
 
@@ -24,6 +24,7 @@ Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemp
 4. Debe haber una validacion para cuando el cliente trata de retirar mas dinero del que tiene y el sistema le diga que no es posible.
 5. El cliente no puede depositar mas de 50,000 por dia ni retirar mas de 30,000.
 6. Utilizar commits atomicos y convencionales.
+7. Subirlo a la rama develop, todos los commits deben estan en develop. La rama main, solo debe tener el primer commit.
 
 **Opcional**
 

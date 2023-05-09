@@ -1,8 +1,8 @@
-1. Cual es la diferencia entre un tipo dato primitivo y uno complejo.
+1. Cual es la diferencia entre un tipo dato primitivo y uno complejo?
 Datos primitivos (char, int, String, boolean, number(int, double)): Son tipos simple que solo guardan un valor.
 Datos complejos (arrays y objetos): Son datos que guardan mas de un valor.
 
-2. Como se define un objeto y un arreglo en JS y para que sirve cada uno.
+2. Como se define un objeto y un arreglo en JS y para que sirve cada uno?
 Los objetos se definen con {} y tiene una key (prop) y un value.
 var celular = {
     brand: "xaomi"
@@ -13,8 +13,8 @@ var celular = {
 Los arrays son una lista de datos a los que se accede por posicion y definen con []
 var daysOfWeek = [ "monday", "tuesday", 90, false, 78.77, { name: "montoya", age: 20 } ];
 
-3. Ejercicio practico de arrays y objetos. Dadas las siguientes variables, obtener en un console.log, lo
-que se solicita
+3. Ejercicio practico de arrays y objetos. 
+Dadas las siguientes variables, obtener en un console.log, lo que se solicita.
 
 var video = {
     name: "peaches",
@@ -35,18 +35,19 @@ var celular = {
 
 var data = [45, 67, 12, { qualifications: [10, 9 , 0] }, false, 23.77 ]
 
-// imprimir el comentario de “a mi no me gusto”
+
+// 1. imprimir el comentario de “a mi no me gusto”
 console.log(video.comments[1]);
-// imprimir la direccion de la compañia de la var celular
+// 2. imprimir la direccion de la compañia de la var celular
 console.log(celular.company.address);
-// imprimir si hay piezas disponibles de celular
+// 3. imprimir si hay piezas disponibles de celular
 console.log(celular.hasStock);
-// imprimir la segunda calificacion
+// 4. imprimir la segunda calificacion
 console.log(data[3].qualifications[1]);
-// imprimir la penultima posicion del array de data
+// 5. imprimir la penultima posicion del array de data
 console.log(data[data.length-2]);
-// imprimir la marca del celular
+// 6. imprimir la marca del celular
 console.log(celular.brand);
-// imprimir el ultimo comentario del video
+// 7. imprimir el ultimo comentario del video
 console.log(video.comments[video.comments.length-1]);
 

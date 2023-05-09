@@ -22,3 +22,14 @@ const myName = 'jose'
 const patito = 29;
 // el envio de parametros se les dice argumentos
 sayHello(myName, patito);
+
+
+function substract(firstNumber, secondNumber) {
+    result = firstNumber + secondNumber;
+    return result;
+}
+const sumResult = sum(10, 90);
+const substractResult = substract(90, 70);
+
+console.log(sumResult); // undefined ya que la funcion sum no retorna
+console.log(substractResult); // 20 ya que la funcion substract si retorna el valor para utilizarlo en otro lado

@@ -141,3 +141,6 @@ Tip best practices
 2. Primero declarar y luego usar.
 3. Que cada funcion sea para 1 solo proposito.
 
+
+
+

@@ -1,0 +1,17 @@
+1. Que es programacion?
+2. Que es un lenguaje de programacion?
+3. Que hace realmente un programador?
+4. Conceptos que todo programador debe conocer
+    Intewrpretado y compilado.
+    Paradigma de programacion.
+    Sintaxis.
+    Keywords o palabras reservadas.
+    Variable y constante.
+    Tipo de datos.
+    Arreglos y objetos.
+    Funcion o metodo.
+    Parametros y argumentos.
+    Scope (ambito de vida de una variable)
+4. Diferencia entre lenguaje vs herramienta vs libreria vs framework
+5. Requerimientos funcionales y no funcionales.
+6. Metodologia SCRUM.
