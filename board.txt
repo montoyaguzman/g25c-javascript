@@ -141,6 +141,26 @@ Tip best practices
 2. Primero declarar y luego usar.
 3. Que cada funcion sea para 1 solo proposito.
 
+Usar svg
+icon class="fa fa-circle"
+i class="fa fa-triangle"
+en vez de imagenes para su sitios web
 
+front end
+api
+json
+scaffold
 
+Primero el diseño
+1. Para tener algo que el usuario pueda ver y saber si es lo que quiera.
+2. Para tener una idea de lo que despues tenemos que trasladar a javascript
+
+Software para hacer bosquejos (mockups o wireframes)
+https://www.canva.com/
+https://app.moqups.com/
+https://www.figma.com/
+https://penpot.app/
+https://www.invisionapp.com/
+https://balsamiq.com/
+https://www.axure.com/
 
