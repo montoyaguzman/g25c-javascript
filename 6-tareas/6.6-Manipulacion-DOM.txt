@@ -1,0 +1,14 @@
+Ejercicios de Manipulación del DOM:
+
+1. Crea una página web con un botón que, al hacer clic en él, cambie el 
+    color de fondo de la página a rojo.
+
+2. Crea una página web que contenga un formulario con un campo de texto 
+    y un botón. Al hacer clic en el botón, el texto ingresado en el campo 
+    de texto debe aparecer en un nuevo párrafo debajo del formulario.
+
+3. Crea una página web con un botón que, al hacer clic en él, cambie el 
+    tamaño de un texto a 2 veces su tamaño original.
+
+4. Crea una página web con una imagen que, al hacer clic en ella, se cambie
+     por otra imagen diferente.

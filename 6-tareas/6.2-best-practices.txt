@@ -1,0 +1,49 @@
+1. Que es let y que es const en javascript?
+var: Permite definir una variable en un scope global.
+let: Permite definir una variable en un scope especifico. // es6
+const: Permite definir variables en un scope especifico pero que nunca cambian de valor. // es6
+
+2. Usar comillas dobles ("") o simples ('')?
+La que quieran, pero siempre la misma
+console.log("jose montoya");
+console.log('jose montoya');
+
+3. Usar punto y coma (;)?
+Ponerlo esta bien y no ponerlo tambien
+console.log("jose montoya");
+console.log("jose montoya")
+
+4. Mejorar sus console.log
+console.log('celular.hasStock: ' + celular.hasStock);
+console.log('celular.hasStock: ', celular.hasStock);
+console.log(`celular.hasStock ${celular.hasStock}`); // es6 - template string `` (backticks)
+
+console.table
+console.warn
+console.error
+
+Docs: https://midu.dev/los-ocho-metodos-de-console-que-debes-conocer/
+
+5. Nombrado de variables
+Nombres que me voy a encontrar: x, y, myVar, estudiante, array, numero...
+
+// Variable de objeto sobre los videos 
+var myObj = {};
+var videoObject = {};
+var video = {};
+
+// Variable para el tiempo de tolerancia para que el cliente se suba uber
+var limitTimeForUserInSeconds = 3000;
+
+// Un arreglo de frutas
+var array = [];
+var frutasArray = [];
+var fruits = [];
+
+// Definir si hay o no stock
+var hasStock = true;
+
+// Variable para validar si son mayores de edad
+var isOldMayor = false;
+
+docs: https://github.com/ryanmcdermott/clean-code-javascript

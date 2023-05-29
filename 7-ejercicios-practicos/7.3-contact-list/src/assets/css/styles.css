@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #303f9f;
+    padding: 20vh 25%;
+    height: 100vh;
+}
+
+img {
+    width: 50px;
+    border-radius: 40px;
+    border: solid black;
+}
+
+.list-container {
+    height: 41vh;
+    overflow-y: auto;
+}
+
+.contact-card {
+    background-color: white;
+    padding: 40px;
+}
+
+.list {
+    background-color: #e0e0e0;
+}
+
+.searching-bar {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.contact-list {
+    list-style: none;
+}
+
+.card {
+    display: flex;
+    margin: 10px;
+}
+
+.photo {
+    width: 20%;
+}
+
+.text {
+    width: 80%;
+}

@@ -1,0 +1,8 @@
+Requerimientos del cliente
+Instrucciones
+Analisis del requerimientos
+
+Realizar una pagina web que sea una agenda de contactos.
+De los contactos debe mostrarse una foto, su nombre y su telefono.
+Debe haber un filtro de texto para facilitar la busqueda de los contactos por nombre.
+

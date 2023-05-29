@@ -1,0 +1,5 @@
+De acuerdo a lo visto en clase y a las ppt y documentacion compartida, realizar los 3 ejercicios propuestos con
+lenguaje natural, diagrama de flujo, pseudocodigo y codigo.
+1. Ir al cine.
+2. Calculadora de figuras
+3. Acumulacion suma

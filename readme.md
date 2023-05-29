@@ -15,15 +15,15 @@ Este documento es una **sintesis de la kata** (clases, campus, tareas y proyecto
 
 ## Temario
 
-1. [Intro a lenguajes de programacion](#intro-a-lenguajes-de-programacion)
-2. [Logica de programacion](#logica-de-programacion)
+1. [Logica e introduccion a los lenguajes de programacion](#logica-e-introduccion-a-los-lenguajes-de-programacion)
+2. [Fundamentos de JavaScript](#fundamentos-de-javascript)
 3. [Frameworks CSS](#frameworks-css)
 4. [Manipulacion del DOM](#manipulacion-del-dom)
 5. [Presentaciones](#presentaciones)
 6. [Informacion y recursos extra](#informacion-y-recursos-extra)
 7. [Glosario](#glosario)
 
-### Intro a lenguajes de programacion
+### Logica e introduccion a los lenguajes de programacion
 
 #### **¿Qué es la programación?**
 
@@ -31,11 +31,9 @@ Es ula creación de software para resolver problemas existentes o nuevos de la v
 
 working...
 
-
 ### Logica de programacion
 
 working...
-
 
 ### Frameworks CSS
 
@@ -45,16 +43,13 @@ working...
 
 working...
 
-
 ### Presentaciones
 
 Se encuentran en la  [carpeta assets](./assets/) de este mismo repo.
 
-
 ### Informacion y recursos extra
 
 working...
-
 
 ### Glosario
 

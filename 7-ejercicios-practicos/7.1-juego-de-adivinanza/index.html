@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <title>Juego de adivinanza</title>
+</head>
+<body>
+    <h1 class="title">Juego de adivinanza</h1>
+    <div class="game">
+        <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title"></div>
+            <div class="mdl-card__supporting-text">
+                <p class="info">Intenta adivinar el número entre 1 y 100</p>
+                <form action="#">
+                    <div class="mdl-textfield mdl-js-textfield">
+                    <input class="mdl-textfield__input" type="text" id="guess" pattern="-?[0-9]*(\.[0-9]+)?" id="sample2">
+                    <label class="mdl-textfield__label" for="sample2">Ingresa tu respuesta...</label>
+                    <span class="mdl-textfield__error">Lo siento no ingresaste un numero!</span>
+                    </div>
+                    <button id="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colorblue">Adivina</button>
+                </form>
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <span class="mdl-chip">
+                    <span class="mdl-chip__text" id="feedback"></span>
+                </span>
+                <button id="playAgain" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colororange">Reiniciar Juego</button>
+            </div>
+        </div>
+    </div>
+    <p id="feedback"></p>
+    
+    <script src="js/index.js"></script>
+</body>
+</html>

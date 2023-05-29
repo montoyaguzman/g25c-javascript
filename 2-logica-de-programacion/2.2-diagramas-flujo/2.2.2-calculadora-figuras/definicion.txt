@@ -1,0 +1,14 @@
+Realizar un programa que calcule el area y el perimetro de 3 figuras distintas. 
+Dependiendo de la figura que indique el usuario (cuadrado, rectangulo isoceles y triangulo)
+
+Dimensiones requeridas
+base
+altura
+lados
+
+Analisis
+** Se debe ingresar las medidas y el tipo de figura que quiero.
+** Todo se debe calcular y mostrar de forma independiente 
+    Por ejemplp: Cuadrado, Perimetro => L => Resultado perimetro.
+** Es necesario repetir el flujo? No, es opcional, pero me gustaria que estuviera.
+** No es necesario manejar excepciones.
